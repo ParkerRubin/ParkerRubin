@@ -1,68 +1,53 @@
-# 👋 Hey, I'm Parker Rubin!
+Hey, I’m Parker Rubin 👋
 
-🎓 **Computer Science student at Florida Atlantic University (B.A., Expected 2028)**
-🛡️ **Cybersecurity Club – Blue Team (WRCCDC Practice Competitor)**
-⚙️ **Hands-on experience with digital logic, VHDL, hardware systems, and Python automation**
-🧠 Passionate about building AI tools, system-level software, and solving technical problems
+I’m a Computer Science student at Florida Atlantic University (Class of 2028) and currently working as a SOC Analyst intern at Arete. I’m also part of FAU’s Cybersecurity Club, where I compete on the Blue Team side in WRCCDC-style environments.
 
----
+I’m really into cybersecurity, AI, and anything system-level—basically anything where I can break something down, understand it, and build it back better.
 
-## 🛠️ Tech Stack
+🛠️ What I Work With
 
-**Languages:** Python, VHDL, C (basic), Bash (basic)
-**Tools & Platforms:** Quartus Prime, ModelSim, Git/GitHub, VS Code, PyCharm, Jupyter, Windows Server
-**Domains:** Digital Logic Design, Cybersecurity Fundamentals, AI Assistants, Windows Hardening, System Simulation
-**Other:** Technical Documentation, Troubleshooting, Electrical/Mechanical Systems, Problem Solving
+Languages: Python, VHDL, some C, some Bash
+Tools: SentinelOne, VS Code, PyCharm, Git/GitHub, Jupyter, Quartus Prime, ModelSim
+Focus Areas:
 
----
+Cybersecurity (EDR, threat hunting, Windows systems)
+Digital logic + hardware systems
+AI tools & automation
+🚀 Stuff I’ve Built / Worked On
 
-## 🚀 Highlight Projects
+🤖 Project Nova (AI Assistant)
+I built my own desktop AI assistant in Python with voice input/output, memory, and modular tools.
+Right now I’m upgrading it to run smoother, respond faster, and move toward more local/offline control.
 
-### 🤖 **Project Nova – AI Desktop Assistant**
+🔌 Digital Logic @ FAU
+Worked on VHDL projects like multiplexers (2:1 → 16:1), NAND-based logic, and full simulations with testbenches in ModelSim.
 
-A Python-based AI assistant with speech I/O, memory retention, and modular command tools.
-Currently redesigning for better response time, local autonomy, and advanced voice interaction.
-`Python • OpenAI API • TTS/STT • Automation`
+🛡️ Cybersecurity / Blue Team Practice
+Hands-on experience with:
 
----
+Windows hardening
+Event log analysis
+Service auditing
+Incident response scenarios
+Working in competition-style environments (WRCCDC prep)
 
-### 🔌 **Digital Logic Labs (CDA – FAU)**
+🧪 Real-world Security Work (Internship)
 
-VHDL-based implementations of hierarchical multiplexers, NAND-only logic, and component simulations.
-Includes 2:1, 4:1, 8:1, and 16:1 MUX cascades, timing diagrams, and ModelSim testbenches.
-`VHDL • Quartus Prime • ModelSim • Digital Design`
+Using EDR tools (SentinelOne) for threat detection & response
+Writing queries, investigating alerts, and handling real incidents
+Learning how actual IR teams operate day-to-day
+📚 What I’m Learning Right Now
+Windows internals & OS-level security
+Better Git workflows (actually using it properly 💀)
+AI agent design & local models
+Embedded systems + FPGA design
+🧠 Random Stuff About Me
+I built my own AI assistant from scratch
+I’m into cars — I’ve customized my C300 pretty heavily
+I like figuring out how things work at both the hardware and software level
+Also into game modding, automation, and random side projects
+📫 Reach Out
 
----
+Email: pdrrubinn@gmail.com
 
-### 🛡️ **WRCCDC Blue Team Practice**
-
-Hands-on cybersecurity experience in a live competition-style environment:
-Windows hardening, service auditing, event log analysis, password policy enforcement, and live incident response.
-`Cybersecurity • Windows Server • PowerShell • Blue Team`
-
----
-
-## 📚 Currently Learning
-
-* OS-level security & Windows internals
-* Better Git/GitHub workflows
-* AI agent architecture
-* Embedded systems & FPGA design
-* Advanced VHDL & system testbenches
-
----
-
-## 🧠 Fun Facts
-
-💬 I built my own AI assistant from scratch
-🚗 I’ve modded and customized my 2018 Mercedes C300 inside and out
-💡 I love solving problems at the hardware *and* software level
-🎮 Always down to explore game modding, AI tools, or automation ideas
-
----
-
-## 📫 Connect with Me
-
-**Email:** [pdrrubinn@gmail.com](mailto:pdrrubinn@gmail.com)
-**LinkedIn:** [https://www.linkedin.com/in/parker-rubin-51b239324](https://www.linkedin.com/in/parker-rubin-51b239324)
-**GitHub:** [https://github.com/ParkerRubin](https://github.com/ParkerRubin)
+LinkedIn: [https://www.linkedin.com/in/parkerrubin](https://www.linkedin.com/in/parkerrubin/)
