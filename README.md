@@ -7,7 +7,6 @@ Focus areas: cybersecurity, SOC operations, incident response, threat hunting, a
 - SentinelOne IR Engineer (SIREN) — employer-sponsored capstone certification for IR partners; covered Deep Visibility/S1QL threat hunting, Singularity blocklist/exclusion administration, incident handling, and false-positive tuning
 - Governance, Risk, Compliance, and Data Privacy — IBM
 - Foundations of Cybersecurity — Google
-- IBM Cybersecurity Analyst — IBM (In Progress)
 - Microsoft Security Essentials Professional Certificate — Microsoft & LinkedIn (In Progress)
 
 ## Skills
