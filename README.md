@@ -1,21 +1,20 @@
 # Parker Rubin
+Computer Science student at Florida Atlantic University (Class of 2028, GPA 3.8), pursuing minors in Cybersecurity and Artificial Intelligence. Recently completed a SOC Analyst Internship at Arete IR. Blue Team competitor for FAU's Cybersecurity Club in WRCCDC-style environments.
 
-Computer Science student at Florida Atlantic University (Class of 2028, GPA 3.8), currently working as a SOC Analyst Intern at Arete IR. Blue Team competitor for FAU's Cybersecurity Club in WRCCDC-style environments.
-
-Focus areas: cybersecurity, SOC operations, incident response, and AI assistant development.
+Focus areas: cybersecurity, SOC operations, incident response, threat hunting, and AI assistant development.
 
 ## Certifications
-
-- SentinelOne Siren Certification (SentinelOne Mastery) — Completed
+- SentinelOne IR Engineer (SIREN) — employer-sponsored capstone certification for IR partners; covered Deep Visibility/S1QL threat hunting, Singularity blocklist/exclusion administration, incident handling, and false-positive tuning
+- Governance, Risk, Compliance, and Data Privacy — IBM
+- Foundations of Cybersecurity — Google
+- IBM Cybersecurity Analyst — IBM (In Progress)
+- Microsoft Security Essentials Professional Certificate — Microsoft & LinkedIn (In Progress)
 
 ## Skills
-
-**Programming & Tools:** Python, VHDL, Quartus Prime, ModelSim, Git, GitHub, VS Code, PyCharm, Jupyter
-**Cybersecurity:** Windows hardening, log monitoring, PowerShell, threat hunting (Autoruns, Process Explorer), SentinelOne, Linux
-**Hardware & Electrical:** Wiring, soldering, diagnostics, blueprint interpretation
+**Programming & Tools:** Python, PowerShell, VHDL, Quartus Prime, ModelSim, Git, GitHub, VS Code, PyCharm, Jupyter
+**Cybersecurity:** MITRE ATT&CK mapping, IOC analysis & enrichment, threat hunting, Windows hardening, log monitoring, SentinelOne (Deep Visibility/S1QL, Storyline, RemoteOps Forensics), Microsoft Sentinel, Azure/Entra ID, Autoruns, Process Explorer, Linux
 
 ## Projects
-
 **Cybersecurity Windows Defense Scripts** (Nov 2025 – Present)
 PowerShell-based Windows defense tooling — firewall automation, system triage, and persistence detection using Sysinternals.
 
@@ -23,18 +22,14 @@ PowerShell-based Windows defense tooling — firewall automation, system triage,
 Python-based AI assistant with speech I/O, memory, and modular tools, built on the OpenAI API. Currently undergoing a major redesign.
 
 ## Work Experience
-
 **SOC Analyst Intern — Arete IR** (Jan 2026 – Jun 2026)
-- Triaged SentinelOne EDR alerts by analyzing process trees, command-line activity, and behavioral indicators to determine true and false positives
-- Submitted suspicious files to sandbox environments and documented investigation findings to support SOC escalation workflows
-- Created internal training material on PowerShell-based triage techniques for scheduled task persistence removal
-
-**Elevator Technician — Core Elevator** (Jul 2023 – Jul 2025)
-- Performed electrical wiring, soldering, component replacement, diagnostics, and safety system servicing
-- Interpreted schematics and restored controller functionality; maintained accurate documentation
+- Triaged and resolved ~9,600 SentinelOne EDR alerts, using Storyline to pivot across related process, file, and network events, accelerating true/false-positive determination and analyst response time
+- Investigated Microsoft Sentinel and Azure/Entra ID sign-in logs for anomalous logins and cloud-based IOCs across client tenants, narrowing scope for faster containment
+- Built a custom Deep Visibility (S1QL) hunting query in SentinelOne to surface malware hidden in endpoint AppData\Local directories, closing a detection gap across ~20 endpoints spanning 15 client accounts
+- Authored investigation playbooks for confirmed malicious detections and riskware in PDF files, standardizing response for recurring cases
+- Authored SOC training documentation supporting analyst onboarding and knowledge continuity
 
 ## Competitions & Leadership
-
 - **CCDC Qualifiers** (Sep 2025) — 15th place nationally; Incident Response 7th/45, Injects 15th/45
 - **Red vs. Blue** (SWIFT, sponsored by Amazon) — 7th/25 teams
 - **NCAE Cyber Games** — 5th/12 and 10th/12 (FAU teams, Linux defense: SSH, SMB, web server, CTF challenges)
@@ -42,6 +37,6 @@ Python-based AI assistant with speech I/O, memory, and modular tools, built on t
 - Member, National Society of Collegiate Scholars (NSCS)
 
 ## Contact
-
 - Email: pdrrubinn@gmail.com
-- LinkedIn: [linkedin.com/in/parkerrubin](https://www.linkedin.com/in/parkerrubin)
+- Portfolio: [parkerrubin.github.io](https://parkerrubin.github.io)
+- LinkedIn: [linkedin.com/in/parker-rubin-51b239324](https://www.linkedin.com/in/parker-rubin-51b239324)
