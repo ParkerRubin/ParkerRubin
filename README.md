@@ -1,8 +1,8 @@
 # Parker Rubin
 
-Computer Science student at Florida Atlantic University (Class of 2028, GPA 3.8), focused on cybersecurity with an additional interest in AI. Recently completed a SOC Analyst Internship at Arete IR. Blue Team competitor for FAU's Cybersecurity Club in WRCCDC-style environments.
+Pursuing a dual degree in Computer Science and Cybersecurity Systems (BSAI track) at Florida Atlantic University (Class of 2028, GPA 3.8), focused on SOC operations, cloud security, and threat intelligence. Recently completed a SOC Analyst Internship at Arete IR. Blue Team competitor for FAU's Cybersecurity Club (WRCCDC, CCDC, NCAE) and 1st-place finisher at SFISSA Hack the Flag 2026.
 
-Focus areas: cybersecurity, SOC operations, incident response, threat hunting, and AI assistant development.
+Focus areas: cybersecurity, SOC operations, incident response, threat hunting, and offensive security.
 
 ## Certifications
 
@@ -15,15 +15,17 @@ Focus areas: cybersecurity, SOC operations, incident response, threat hunting, a
 
 **Programming & Tools:** Python, PowerShell, VHDL, Quartus Prime, ModelSim, Git, GitHub, Docker, VS Code, PyCharm, Jupyter
 
-**Cybersecurity:** MITRE ATT&CK mapping, IOC analysis & enrichment, threat hunting, Windows hardening, log monitoring, SentinelOne (Deep Visibility/S1QL, Storyline, RemoteOps Forensics), Microsoft Sentinel, Azure/Entra ID, Autoruns, Process Explorer, Wireshark, Snort, Linux
+**Cybersecurity:** MITRE ATT&CK mapping, IOC analysis & enrichment, threat hunting, Windows hardening, log monitoring, SentinelOne (Deep Visibility/S1QL, Storyline, RemoteOps Forensics), Microsoft Sentinel, Azure/Entra ID, Sysinternals Suite (Process Explorer, Autoruns, TCPView, Sysmon), Wireshark, Snort, Linux
+
+**Offensive Security (TryHackMe):** Nmap, Gobuster, Hydra, John the Ripper, enum4linux, smbclient, Netcat, LinPEAS; web enumeration, command injection, SMB enumeration, credential attacks, Linux privilege escalation
 
 ## Projects
 
-**Cybersecurity Windows Defense Scripts** (Nov 2025 - Present)
-PowerShell-based Windows defense tooling: firewall automation, system triage, and persistence detection using Sysinternals.
+**SOC Competition Scripts** (Nov 2025 - Present)
+Cross-platform Blue Team toolkit for CCDC/WRCCDC-style competitions: PowerShell scripts that snapshot baseline system state, cross-reference open ports against firewall rules, flag persistence mechanisms and unsigned binaries, and harden Windows with deny-by-default firewall policy, plus a Linux enumeration module for fast triage under time pressure.
 
-**Project Nova - AI Assistant** (Feb 2025 - Present)
-Python-based AI assistant with speech I/O, memory, and modular tools, built on the OpenAI API. Currently undergoing a major redesign.
+**SentryOS - EDR Platform** (Sep 2026)
+Three-component EDR platform: a Windows Service agent running Sysmon for telemetry, a FastAPI backend for threat evaluation, and a server-rendered console for reviewing detections. Real-time detection with process lineage visualization, incident correlation across hosts, a rules engine for custom detections, and an AI analyst (Groq) for context-specific alert triage.
 
 ## Work Experience
 
@@ -37,14 +39,16 @@ Python-based AI assistant with speech I/O, memory, and modular tools, built on t
 
 ## Competitions & Leadership
 
+- **SFISSA Hack the Flag 2026** (Sep 2026): 1st Place out of 33 teams at South Florida's biggest annual CTF, sponsored by AWS, Horizon3.ai, and TORQ
 - **CCDC Qualifiers** (Sep 2025): 15th place, Blue Team Competitor in the national event; Incident Response 7th/45, Injects 15th/45
-- **Red vs. Blue** (SWIFT, sponsored by Amazon): 7th/25 teams (Inject & Windows)
-- **NCAE Cyber Games**: Blue Team Competitor in the national Linux defense event (SSH, SMB, web server, CTF challenges); FAU teams placed 5th/12 and 10th/12
-- **FAU Cybersecurity Club**: Officer, Social Media Manager; 3x Blue Team competitor in WRCCDC practice events
+- **WRCCDC Practice Events (3x)** (Nov 2025 - Jan 2026): Blue Team competitor defending Windows systems, handling incident response, and completing injects
+- **Red vs. Blue** (Spring 2026, hosted by SWIFT, sponsored by Amazon): 7th/25 teams (Inject & Windows)
+- **NCAE Cyber Games** (Spring 2026): Blue Team Competitor in the national Linux defense event (SSH, SMB, web server, CTF challenges); FAU teams placed 5th/12 and 10th/12
+- **FAU Cybersecurity Club**: Officer, Competitor, Social Media Manager
 - Member, National Society of Collegiate Scholars (NSCS)
 
 ## Contact
 
 - Email: pdrrubinn@gmail.com
 - Portfolio: [parkerrubin.github.io](https://parkerrubin.github.io)
-- LinkedIn: [linkedin.com/in/parker-rubin-51b239324](https://www.linkedin.com/in/parker-rubin-51b239324)
+- LinkedIn: [linkedin.com/in/parkerrubin](https://www.linkedin.com/in/parkerrubin)
